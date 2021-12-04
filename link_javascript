@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pengertian Javascript</title>
+    </head>
+    <body>
+        <h1>Contoh Link Javascript</h1>
+        <p>Ini adalah contoh link javascript. Coba klik link ini:
+            <a href="#penutup">Meluncur ke Penutup</a> maka kamu
+            akan dibawa ke bagian penutup dari dokumen ini.
+        </p>
+        <h2>Apa itu Javascript?</h2>
+        <p>
+            Javascript adalah sebuah bahasa komputer atau kode pemrograman
+			yang digunakan pada website agar website tersebut menjadi lebih 
+			interaktif dan dinamis. Javascript populer di internet dan dapat
+			bekerja di sebagian besar penjelajah web populer seperti Google Chrome,
+			Internet Explorer, Mozilla Firefox, Netscape dan Opera. Javascript adalah
+			jenis bahasa pemrograman client side. Penggunaan kode javasript pada sebuah
+			website bersifat opsional, artinya tidak harus selalu ada.
+        </p>
+        <p>
+            Fungsi Javascript pada HTML adalah membuat halaman web lebih interaktif,
+			juga digunakan dalam perangkat lunak,server, dan kontrol perangkat keras tertanam.
+            Beberapa tipe data dalam pemrograman Javasript;
+             1.	String (teks)
+             2.	Integer atau Number (bilangan bulat)
+             3.	Float (bilangan pecahan)
+             4.	Boolean
+             5.	Object
+        </p>
+        <h2 id="penutup">Akhir Kata..</h2>
+        <p>
+            Ini adalah penutup dari artikel ini, dan coba perhatikan headingnya.
+            Di sana kita menggunakan id="penutup". Maka elemen ini akan menjadi
+            tujuan dari javascript link.
+        </p>
+        <p>
+            <a href="#top">Kembali ke Atas!</a>
+        </p>
+    </body>
+</html>
